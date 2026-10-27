@@ -1,0 +1,6 @@
+Future Flodesk connection
+Fields: first_name, email, phone (optional), dream_destination, traveled_with_twt, traveler_segment, discount_eligible, signup_source.
+Yes -> returning_traveler; No -> first_time_traveler. Both choices are discount eligible.
+Offer: one $50 credit per traveler toward a future booking. Track previous claims in the connected system to prevent duplicate sends.
+Keep traveler-history segments for messaging; do not restrict this offer to either segment.
+No live integration, subscriber collection, code delivery, or redemption enforcement has been created in this preview. The native embed will need these fields, validation, and success behavior configured when connected.

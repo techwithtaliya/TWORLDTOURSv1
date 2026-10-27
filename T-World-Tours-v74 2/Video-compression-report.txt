@@ -1,0 +1,15 @@
+Video compression — v74
+
+Retained video compression: 10% smaller.
+Overall video bundle: 37% smaller including the YouTube recap replacement.
+Dimensions, frame rates and audio preserved.
+
+header-autoplay.mp4: 7.3 MB → 5.6 MB | 1280 × 720
+header-film.mp4: 61.5 MB → 52.9 MB | 1920 × 1080
+host-recap.mp4: 9.2 MB → 8.4 MB | 720 × 1280
+story-reel-01.mp4: 13.6 MB → 12.5 MB | 720 × 1280
+story-reel-02.mp4: 7.5 MB → 7.0 MB | 720 × 1280
+story-reel-03.mp4: 6.1 MB → 5.1 MB | 720 × 1280
+travel-stories.mp4: 49.5 MB → 44.9 MB | 1280 × 720
+traveler-reviews.mp4: 104.8 MB → 94.5 MB | 1280 × 720
+zanzibar-testimony.mp4: 51.0 MB → 48.5 MB | 1280 × 720
